@@ -26,7 +26,7 @@ I firmly believe that technology should solve real-world problems — especially
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-## Innovación en Tecnología de la Salud
+## Research & Development Project
 
 ### [Emotional State Monitoring through NLP](https://manglar.uninorte.edu.co/handle/10584/11933)
 
@@ -35,6 +35,7 @@ This project explores the intersection between software engineering and emotiona
 Instead of building a generic application, we integrated psychological research principles with text analysis techniques to create a tool capable of identifying emotional trends and generating statistical feedback.
 
 The objective was not only technological — it was human-centered.
+
 
 
 ## Professional Philosophy
