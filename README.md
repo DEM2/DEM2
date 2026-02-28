@@ -7,14 +7,22 @@ I’m a Systems Engineer from Colombia with a strong passion for software develo
 
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
-## 💼 Professional Focus
+## Professional Focus
 
 Software Development: Building user-centered and scalable applications
 Health & Well-Being Tech: Creating solutions that support emotional and mental health
 Leadership & Innovation: Taking initiative and leading projects with purpose
 Vision Oriented: Combining engineering, empathy, and product thinking
 
-## 💻 Tech Stack
+## Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
 Frontend:
 HTML · CSS · JavaScript · React
@@ -26,12 +34,12 @@ Tools & Concepts:
 Git · REST APIs · Agile mindset 
 
 
-## 🚀 Featured Project 
+##  Featured Project 
 [Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques](https://manglar.uninorte.edu.co/handle/10584/11933)
 
 A research and development project focused on creating an application to monitor and interpret emotional states using Natural Language Processing (NLP) techniques. The system analyzes user text to generate emotional insights and detailed statistics to help individuals track their emotional well-being. The methodology was grounded in the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Barlow), adapted with a growth mindset and user-centered design.
 
-## 💡 Values 
+##  Values 
 
 * Impact-Driven – I build with purpose, not just feature
 * Disciplined & Growth Oriented – Constant learning and evolution
