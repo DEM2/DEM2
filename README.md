@@ -9,12 +9,20 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Core Principles
 
-> Technology must have purpose.  
-> Impact matters more than feature count.  
-> Discipline drives sustainable growth.  
-> Innovation requires responsibility.  
-> Vision must outlast short-term success.
+**Purpose**  
+Technology exists to solve real problems.
 
+**Impact**  
+Results matter more than features.
+
+**Discipline**  
+Growth is intentional and structured.
+
+**Responsibility**  
+Innovation must be ethical.
+
+**Vision**  
+Think beyond immediate success.
 ✔ Technology must have purpose  
 ✔ Impact over features  
 ✔ Growth through discipline  
