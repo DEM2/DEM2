@@ -7,6 +7,16 @@ I’m a Systems Engineer from Colombia with a strong passion for software develo
 
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
+<details>
+<summary><strong>About Me</strong></summary>
+
+I’m a Systems Engineer from Colombia with a strong passion for software development, health technology, and biomedical engineering.
+
+Currently strengthening my software development expertise at RIWI.
+
+I believe technology must solve real-world problems — especially those that improve health outcomes and generate social impact.
+
+</details>
 
 ## Core Principles
 
