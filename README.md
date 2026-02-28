@@ -15,12 +15,6 @@ I firmly believe that technology should solve real-world problems — especially
 ✔ Innovation with responsibility  
 ✔ Long-term vision over short-term success
 
-## Professional Focus
-
-Software Development: Building user-centered and scalable applications
-Health & Well-Being Tech: Creating solutions that support emotional and mental health
-Leadership & Innovation: Taking initiative and leading projects with purpose
-Vision Oriented: Combining engineering, empathy, and product thinking
 
 ## Tech Stack
 
