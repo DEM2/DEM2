@@ -8,19 +8,13 @@ I’m a Systems Engineer from Colombia with a strong passion for software develo
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
 ## Core Principles
-## Internal Protocol
 
-[01] Purpose is mandatory  
+[01] Technology must have purpose  
 [02] Impact is measurable  
 [03] Discipline is non-negotiable  
 [04] Responsibility is inherent  
-[05] Vision is long-term
-
-✔ Technology must have purpose  
-✔ Impact over features  
-✔ Growth through discipline  
-✔ Innovation with responsibility  
-✔ Long-term vision over short-term success
+[05] Long-term vision over short-term success
+[05] Innovation with responsibility  
 
 
 ## Tech Stack
