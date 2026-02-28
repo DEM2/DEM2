@@ -27,20 +27,18 @@ Git · REST APIs · Agile mindset
 
 
 🚀 Featured Project 
-Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques
-
-📄 Link: https://manglar.uninorte.edu.co/handle/10584/11933
+[Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques](https://manglar.uninorte.edu.co/handle/10584/11933)
 
 A research and development project focused on creating an application to monitor and interpret emotional states using Natural Language Processing (NLP) techniques. The system analyzes user text to generate emotional insights and detailed statistics to help individuals track their emotional well-being. The methodology was grounded in the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Barlow), adapted with a growth mindset and user-centered design.
 
 💡 Values 
 
-Impact-Driven – I build with purpose, not just feature
-Disciplined & Growth Oriented – Constant learning and evolution
-Leadership Mindset – Initiative and teamwork
-Innovation Focused – Problem solving with creativity
+* Impact-Driven – I build with purpose, not just feature
+* Disciplined & Growth Oriented – Constant learning and evolution
+* Leadership Mindset – Initiative and teamwork
+* Innovation Focused – Problem solving with creativity
 
-Favorite Quote | Frase favorita
+✨ Favorite Quote | Frase favorita
 
 “It’s not where you start that defines you, but how far you’re willing to go.”
 «No es donde empiezas lo que te define, sino hasta dónde estás dispuesto a llegar.»
