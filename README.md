@@ -28,7 +28,7 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Innovación en Tecnología de la Salud
 
-### Monitoreo del Estado Emocional mediante PNL
+### [Monitoreo del Estado Emocional mediante PNL](https://manglar.uninorte.edu.co/handle/10584/11933)
 
 Este proyecto explora la intersección entre la ingeniería de software y la salud emocional.
 
