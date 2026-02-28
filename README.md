@@ -26,6 +26,17 @@ I firmly believe that technology should solve real-world problems — especially
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
+## Innovación en Tecnología de la Salud
+
+### Monitoreo del Estado Emocional mediante PNL
+
+Este proyecto explora la intersección entre la ingeniería de software y la salud emocional.
+
+En lugar de desarrollar una aplicación genérica, integramos principios de investigación psicológica con técnicas de análisis de texto para crear una herramienta capaz de identificar tendencias emocionales y generar retroalimentación estadística.
+
+El objetivo no era solo tecnológico, sino también humano.
+
+
 ##  Featured Project 
 [Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques](https://manglar.uninorte.edu.co/handle/10584/11933)
 
