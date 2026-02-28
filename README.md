@@ -39,17 +39,4 @@ I believe that discipline, innovation, and leadership are not traits, but daily 
 
 > "It’s not where you start that defines you, but how far you’re willing to go."
 
-##  Values 
-
-* Impact-Driven – I build with purpose
-* Disciplined & Growth Oriented – Constant learning and evolution
-* Leadership Mindset – Initiative and teamwork
-* Innovation Focused – Problem solving with creativity
-
-## ✨ Favorite Quote | Frase favorita
-
-“It’s not where you start that defines you, but how far you’re willing to go.”
->> «_No es donde empiezas lo que te define, sino hasta dónde estás dispuesto a llegar._»
-
-
 -->
