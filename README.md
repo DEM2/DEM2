@@ -1,4 +1,4 @@
-<p align="center"> <h1>👋 Hello, I'm **Daniel Mendoza**</h1> <p align="center">Systems Engineer | Software Developer | Health & Social Impact Advocate</p> </p>
+<p align="center"> <h1>👋 Hello, I'm *Daniel Mendoza*</h1> <p align="center">Systems Engineer | Software Developer | Health & Social Impact Advocate</p> </p>
 
 
 ## About Me
@@ -41,7 +41,7 @@ A research and development project focused on creating an application to monitor
 ## ✨ Favorite Quote | Frase favorita
 
 “It’s not where you start that defines you, but how far you’re willing to go.”
-«No es donde empiezas lo que te define, sino hasta dónde estás dispuesto a llegar.»
+>> «_No es donde empiezas lo que te define, sino hasta dónde estás dispuesto a llegar._»
 
 
 -->
