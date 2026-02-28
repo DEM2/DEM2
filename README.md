@@ -22,17 +22,8 @@ Vision Oriented: Combining engineering, empathy, and product thinking
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" width="40"/>
 </p>
-
-Frontend:
-HTML · CSS · JavaScript · React
-
-Databases:
-MySQL
-
-Tools & Concepts:
-Git · REST APIs · Agile mindset 
-
 
 ##  Featured Project 
 [Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques](https://manglar.uninorte.edu.co/handle/10584/11933)
