@@ -1,4 +1,4 @@
-<p align="center"> <h1>👋 Hello, I'm *Daniel Mendoza*</h1> <p align="center">Systems Engineer | Software Developer | Health & Social Impact Advocate</p> </p>
+<p align="center"> <h1>👋 Hello, I'm Daniel Mendoza </h1> <p align="center">Systems Engineer | Software Developer | Health & Social Impact Advocate</p> </p>
 
 
 ## About Me
