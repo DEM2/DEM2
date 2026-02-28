@@ -1,8 +1,9 @@
 <p align="center"> <h1>👋 Hello, I'm **Daniel Mendoza**</h1> <p align="center">Systems Engineer | Software Developer | Health & Social Impact Advocate</p> </p>
 
-About Me
 
-I’m a Systems Engineer from Colombia with a strong passion for software development, health technology, and biomedical engineering. After graduating with my engineering degree, I’ve been dedicating myself to mastering software development at RIWI, where I’m expanding my skills and leading impactful projects.
+## About Me
+
+I’m a Systems Engineer from Colombia with a strong passion for software development, health technology, and biomedical engineering. After graduating with my engineering degree, Currently strengthening my software development expertise at **RIWI**, where I’m expanding my skills.
 
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
