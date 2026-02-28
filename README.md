@@ -7,11 +7,6 @@ I’m a Systems Engineer from Colombia with a strong passion for software develo
 
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
-<p align="center">
-  <strong>Systems Engineer</strong><br/>
-  Software Development · Health Technology · Social Impact<br/><br/>
-  Colombia 🇨🇴
-</p>
 
 ## Core Principles
 
