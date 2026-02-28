@@ -31,15 +31,13 @@ I firmly believe that technology should solve real-world problems — especially
 
 A research and development project focused on creating an application to monitor and interpret emotional states using Natural Language Processing (NLP) techniques. The system analyzes user text to generate emotional insights and detailed statistics to help individuals track their emotional well-being. The methodology was grounded in the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Barlow), adapted with a growth mindset and user-centered design.
 
-## Professional Foundations
+## Professional Philosophy
 
-| Principle | Meaning |
-|------------|----------|
-| Purpose-Driven Development | Every project must have real-world value |
-| Discipline | Excellence through consistency |
-| Leadership | Accountability and initiative |
-| Innovation | Creative solutions with structure |
-| Long-Term Vision | Building for growth and scalability |
+Engineering is not only about building systems — it is about building impact.
+
+I believe that discipline, innovation, and leadership are not traits, but daily practices. Growth is intentional, and technology must always serve a higher purpose.
+
+> "It’s not where you start that defines you, but how far you’re willing to go."
 
 ##  Values 
 
