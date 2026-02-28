@@ -7,16 +7,13 @@ I’m a Systems Engineer from Colombia with a strong passion for software develo
 
 I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
 
-## Professional Focus
+## Core Principles
 
-I focus on building technology with intention and measurable impact.
-
-**Primary Areas:**
-
-- Software Engineering & Product Thinking  
-- Health-Oriented Technology Solutions  
-- Emotional Data Analysis & NLP Applications  
-- Leadership & Continuous Growth
+✔ Technology must have purpose  
+✔ Impact over features  
+✔ Growth through discipline  
+✔ Innovation with responsibility  
+✔ Long-term vision over short-term success
 
 ## Professional Focus
 
