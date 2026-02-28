@@ -28,19 +28,14 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Innovación en Tecnología de la Salud
 
-### [Monitoreo del Estado Emocional mediante PNL](https://manglar.uninorte.edu.co/handle/10584/11933)
+### [Emotional State Monitoring through NLP](https://manglar.uninorte.edu.co/handle/10584/11933)
 
-Este proyecto explora la intersección entre la ingeniería de software y la salud emocional.
+This project explores the intersection between software engineering and emotional health.
 
-En lugar de desarrollar una aplicación genérica, integramos principios de investigación psicológica con técnicas de análisis de texto para crear una herramienta capaz de identificar tendencias emocionales y generar retroalimentación estadística.
+Instead of building a generic application, we integrated psychological research principles with text analysis techniques to create a tool capable of identifying emotional trends and generating statistical feedback.
 
-El objetivo no era solo tecnológico, sino también humano.
+The objective was not only technological — it was human-centered.
 
-
-##  Featured Project 
-[Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques](https://manglar.uninorte.edu.co/handle/10584/11933)
-
-A research and development project focused on creating an application to monitor and interpret emotional states using Natural Language Processing (NLP) techniques. The system analyzes user text to generate emotional insights and detailed statistics to help individuals track their emotional well-being. The methodology was grounded in the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Barlow), adapted with a growth mindset and user-centered design.
 
 ## Professional Philosophy
 
