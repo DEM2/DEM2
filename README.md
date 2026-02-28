@@ -31,7 +31,7 @@ A research and development project focused on creating an application to monitor
 
 ##  Values 
 
-* Impact-Driven – I build with purpose, not just feature
+* Impact-Driven – I build with purpose
 * Disciplined & Growth Oriented – Constant learning and evolution
 * Leadership Mindset – Initiative and teamwork
 * Innovation Focused – Problem solving with creativity
