@@ -58,6 +58,6 @@ Engineering is not only about building systems — it is about building impact.
 
 I believe that discipline, innovation, and leadership are not traits, but daily practices. Growth is intentional, and technology must always serve a higher purpose.
 
-> "It’s not where you start that defines you, but how far you’re willing to go."
+> _"It’s not where you start that defines you, but how far you’re willing to go."_
 
 -->
