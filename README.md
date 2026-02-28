@@ -9,6 +9,17 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Professional Focus
 
+I focus on building technology with intention and measurable impact.
+
+**Primary Areas:**
+
+- Software Engineering & Product Thinking  
+- Health-Oriented Technology Solutions  
+- Emotional Data Analysis & NLP Applications  
+- Leadership & Continuous Growth
+
+## Professional Focus
+
 Software Development: Building user-centered and scalable applications
 Health & Well-Being Tech: Creating solutions that support emotional and mental health
 Leadership & Innovation: Taking initiative and leading projects with purpose
