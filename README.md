@@ -9,12 +9,12 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Core Principles
 
-[01] Technology must have purpose  
-[02] Impact is measurable  
-[03] Discipline is non-negotiable  
-[04] Responsibility is inherent  
-[05] Long-term vision over short-term success
-[05] Innovation with responsibility  
+→ Technology must have purpose  
+→ Impact is measurable  
+→ Discipline is non-negotiable  
+→ Responsibility is inherent  
+→ Long-term vision over short-term success  
+→ Innovation with responsibility
 
 
 ## Tech Stack
