@@ -26,7 +26,7 @@ Git · REST APIs · Agile mindset
 
 
 🚀 Featured Project 
-Monitoreo e interpretación del estado emocional en pacientes con trastornos de ansiedad y depresión aplicando técnicas de PLN
+Monitoring and interpretation of the emotional state in patients with anxiety and depression disorders applying NLP techniques
 
 📄 Link: https://manglar.uninorte.edu.co/handle/10584/11933
 
