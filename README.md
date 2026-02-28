@@ -31,6 +31,16 @@ I firmly believe that technology should solve real-world problems — especially
 
 A research and development project focused on creating an application to monitor and interpret emotional states using Natural Language Processing (NLP) techniques. The system analyzes user text to generate emotional insights and detailed statistics to help individuals track their emotional well-being. The methodology was grounded in the Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Barlow), adapted with a growth mindset and user-centered design.
 
+## Professional Foundations
+
+| Principle | Meaning |
+|------------|----------|
+| Purpose-Driven Development | Every project must have real-world value |
+| Discipline | Excellence through consistency |
+| Leadership | Accountability and initiative |
+| Innovation | Creative solutions with structure |
+| Long-Term Vision | Building for growth and scalability |
+
 ##  Values 
 
 * Impact-Driven – I build with purpose
