@@ -9,7 +9,6 @@ I am currently strengthening my technical skills through my training at RIWI, bu
 
 I am interested in developing software for the medical and healthcare fields, as well as creating solutions that address real needs and generate an impact in the tech sector.
 
-I am characterized by discipline, leadership, teamwork, and a continuous learning mindset geared toward professional growth.
 
 ## Core Principles
 
