@@ -19,7 +19,7 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql" />
 </p>
 
