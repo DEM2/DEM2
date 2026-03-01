@@ -38,10 +38,6 @@ The objective was not only technological — it was human-centered.
 
 ## Professional Philosophy
 
-Engineering is not only about building systems — it is about building impact.
-
-I believe that discipline, innovation, and leadership are not traits, but daily practices. Growth is intentional, and technology must always serve a higher purpose.
-
-> _"It’s not where you start that defines you, but how far you’re willing to go."_
+> _"Technology must serve something greater than itself."_
 
 -->
