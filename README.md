@@ -17,6 +17,17 @@ I firmly believe that technology should solve real-world problems — especially
 * Innovation with responsibility
 
 
+## Technical Identity
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql" />
+</p>
+
+I build within the JavaScript ecosystem,
+structuring scalable interfaces and relational data systems,
+operating under Agile delivery cycles.
+
+
 ## Tech Stack
 
 ### Languages & Frontend
