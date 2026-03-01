@@ -17,34 +17,12 @@ I firmly believe that technology should solve real-world problems — especially
 * Innovation with responsibility
 
 
-## Technical Identity
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mysql" />
 </p>
 
-I build within the JavaScript ecosystem,
-structuring scalable interfaces and relational data systems,
-operating under Agile delivery cycles.
-
-
-## Tech Stack
-
-### Languages & Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-### Methodology
-Agile (Scrum-oriented workflow)
 
 ## Research & Development Project
 
