@@ -3,9 +3,13 @@
 
 ## About Me
 
-I’m a Systems Engineer from Colombia with a strong passion for software development, health technology, and biomedical engineering. After graduating with my engineering degree, Currently strengthening my software development expertise at **RIWI**, where I’m expanding my skills.
+I am a systems engineer focused on software development.
 
-I firmly believe that technology should solve real-world problems — especially those that improve health outcomes and generate social impact for communities. It’s not enough to build code; there must be a meaningful why behind what we build.
+I am currently strengthening my technical skills through my training at RIWI, building a solid foundation in the construction, architecture, and implementation of technological solutions.
+
+I am interested in developing software for the medical and healthcare fields, as well as creating solutions that address real needs and generate an impact in the tech sector.
+
+I am characterized by discipline, leadership, teamwork, and a continuous learning mindset geared toward professional growth.
 
 ## Core Principles
 
