@@ -9,7 +9,6 @@ I firmly believe that technology should solve real-world problems — especially
 
 ## Core Principles
 
-* Technology must have purpose  
 * Impact is measurable  
 * Discipline is non-negotiable  
 * Responsibility is inherent  
